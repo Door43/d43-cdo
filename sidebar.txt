@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cdo:home|Door43 (cdo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cdo|d43-cdo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cdo/archive/master.zip|d43-cdo.zip]]
+
+**Recent Changes**
+{{changes>ns = cdo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cdo|Ethnologue data]]
+
